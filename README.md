@@ -13,8 +13,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-https://warshcloth1992.github.io/- Bulleted
+- Bulleted
 - List
+
+<p><a href="https://warshcloth1992.github.io/>Visit my resume page</a></p>
 
 1. Numbered
 2. List
