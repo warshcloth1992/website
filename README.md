@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/warshcloth1992/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+a>https://warshcloth1992.github.io/You can use the [editor on GitHub](https://github.com/warshcloth1992/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -14,8 +13,7 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
-- Bulleted
+https://warshcloth1992.github.io/- Bulleted
 - List
 
 1. Numbered
